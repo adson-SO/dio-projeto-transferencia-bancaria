@@ -1,0 +1,16 @@
+C:\Users\adson\workspace\Project\Project.Bank\bin\Debug\net5.0\Project.Bank.exe
+C:\Users\adson\workspace\Project\Project.Bank\bin\Debug\net5.0\Project.Bank.deps.json
+C:\Users\adson\workspace\Project\Project.Bank\bin\Debug\net5.0\Project.Bank.runtimeconfig.json
+C:\Users\adson\workspace\Project\Project.Bank\bin\Debug\net5.0\Project.Bank.runtimeconfig.dev.json
+C:\Users\adson\workspace\Project\Project.Bank\bin\Debug\net5.0\Project.Bank.dll
+C:\Users\adson\workspace\Project\Project.Bank\bin\Debug\net5.0\ref\Project.Bank.dll
+C:\Users\adson\workspace\Project\Project.Bank\bin\Debug\net5.0\Project.Bank.pdb
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.csproj.AssemblyReference.cache
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.AssemblyInfoInputs.cache
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.AssemblyInfo.cs
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.csproj.CoreCompileInputs.cache
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.dll
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\ref\Project.Bank.dll
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.pdb
+C:\Users\adson\workspace\Project\Project.Bank\obj\Debug\net5.0\Project.Bank.genruntimeconfig.cache
